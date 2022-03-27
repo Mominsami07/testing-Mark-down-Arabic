@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/KVChR06/1639042753833.jpg" width="50%" height="50%" />
+<img src="https://i.ibb.co/KVChR06/1639042753833.jpg" width="25%" height="25%" />
 # Reviews and Feedback
 
 
