@@ -14,19 +14,19 @@
 
 
 ## Connect with me
-  <a href="https://twitter.com/mradwan06" target="_blank">
+  <a href="https://twitter.com/mradwan06">
     <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
   </a>&ensp;
-  <a href="https://www.linkedin.com/in/mohamedahmedradwan/" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamedahmedradwan/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>&ensp;
-  <a href="https://www.youtube.com/c/MohamedRadwanArabic" target="_blank">
+  <a href="https://www.youtube.com/c/MohamedRadwanArabic">
   <img width="30px" src="https://i.pinimg.com/originals/46/02/cb/4602cbc18967da9c1eba7452905cd99b.png" />
   </a>&ensp;
   <a href="#" target="_blank">
     <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>&ensp;
-  <a href="https://mohamedradwan.com/" target="_blank">
+  <a href="https://mohamedradwan.com/">
   <img width="35px" src="https://i.ibb.co/R9P4NqZ/pngegg.png" />
   </a>
  
