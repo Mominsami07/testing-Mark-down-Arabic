@@ -7,7 +7,8 @@ img[src="https://i.ibb.co/KVChR06/1639042753833.jpg"] {
     background-color: var(--color-background-container);
 }
 
-.. image:: https://i.ibb.co/KVChR06/1639042753833.jpg
+
+image:: https://i.ibb.co/KVChR06/1639042753833.jpg
    :height: 100%
    :width: 100%
    :border-radius: 50%
