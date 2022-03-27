@@ -1,8 +1,8 @@
-.right img {float: right;  }
+.right img {float: right;  } width: 50px;height: 100%; border-radius: 50%; border: 4px solid;
 <span class="right">
 ![](https://i.ibb.co/KVChR06/1639042753833.jpg) 
 </span>
-   
+   <img src="https://i.ibb.co/KVChR06/1639042753833.jpg" width="100%" height="100%" border-radius= "50%"  />
 # Reviews and Feedback
 
 
