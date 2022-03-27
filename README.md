@@ -4,7 +4,7 @@
  
  # أحمد الشربيني - Technical Tema Lead - الإمارات   <img width="90px" height="90px" src="https://i.ibb.co/KVChR06/1639042753833.jpg" /> 
 
-<img width="200px" src="https://media-exp1.licdn.com/dms/image/D4D03AQGdnCwE-IqYVg/profile-displayphoto-shrink_200_200/0/1639042753833?e=1654128000&amp;v=beta&amp;t=sFuhGf067t-XunBiTyQA46buaduILTk2hxrsW3xE6BA" height="200px" alt="Ahmed Sherbeeny" id="ember40" width: "100%" height: "100%" border-radius: "50%" />
+<img width="200px" src="https://i.ibb.co/KVChR06/1639042753833.jpg" height="200px" alt="Ahmed Sherbeeny" id="ember40" width: "100%" height: "100%" border-radius: "50%" />
 
 
 > أحمد خبرة في مجال البرمجيات 7 سنين، و عايز يعمل career shift لـ مجال ال DevOps، لأنه شايف أنه الطلب عليه بيزيد جداً مؤخراً والفرص بتاعته حلوة. 
