@@ -1,6 +1,9 @@
 <img style="width: 100%;height: 100%; border-radius: 50%; border: 4px solid var(--color-background-container);background-color: var(--color-background-container);"  src="https://i.ibb.co/KVChR06/1639042753833.jpg" /> 
 
-
+.right img { float: right; }
+<span class="right">
+![](https://i.ibb.co/KVChR06/1639042753833.jpg) 
+</span>
    
 # Reviews and Feedback
 
