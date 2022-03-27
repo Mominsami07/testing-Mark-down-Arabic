@@ -32,6 +32,6 @@
  
  
 ## Thanks to all the contributors ❤️
-<a href = "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=kunal-kushwaha/DSA-Bootcamp-Java"/>
+<a href = "https://github.com/MohamedRadwan-DevOps/DevOps-step-by-step-arabic/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=MohamedRadwan-DevOps/DevOps-step-by-step-arabic"/>
 </a>
