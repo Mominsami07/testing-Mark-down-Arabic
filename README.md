@@ -1,8 +1,8 @@
 
 # Reviews and Feedback
 
- <img width="50px" height="90px" src="https://i.ibb.co/RCmY8DX/Ahmed-Sherbeeny.jpg" /> 
- ##أحمد الشربيني - Technical Tema Lead - الإمارات
+ <img width="70px" height="90px" src="https://i.ibb.co/RCmY8DX/Ahmed-Sherbeeny.jpg" /> 
+ ## أحمد الشربيني - Technical Tema Lead - الإمارات
 
 
 
