@@ -9,7 +9,8 @@
     border-radius: "50%"
     border: 4px solid var(--color-background-container)
     background-color: var(--color-background-container)
->
+ظ
+     />
 
 
 > أحمد خبرة في مجال البرمجيات 7 سنين، و عايز يعمل career shift لـ مجال ال DevOps، لأنه شايف أنه الطلب عليه بيزيد جداً مؤخراً والفرص بتاعته حلوة. 
