@@ -12,6 +12,14 @@ image:: https://i.ibb.co/KVChR06/1639042753833.jpg
    :height: 100%
    :width: 100%
    :border-radius: 50%
+   
+   ![](https://i.ibb.co/KVChR06/1639042753833.jpg){
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    border: 4px solid var(--color-background-container);
+    background-color: var(--color-background-container);
+}
 
 # Reviews and Feedback
 
