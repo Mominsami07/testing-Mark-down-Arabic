@@ -1,8 +1,7 @@
 
 # Reviews and Feedback
 
-
-## أحمد الشربيني - Technical Tema Lead - الإمارات <img width="50px" height="50px" src="https://i.ibb.co/RCmY8DX/Ahmed-Sherbeeny.jpg" /> 
+ <img width="50px" height="50px" src="https://i.ibb.co/RCmY8DX/Ahmed-Sherbeeny.jpg" /> أحمد الشربيني - Technical Tema Lead - الإمارات
 
 
 
