@@ -1,22 +1,11 @@
-<style>
-.heading1 {
-    color: red;
-    font-weight:700;
-    font-size: 35px;
+<img width="90px" height="90px" src="https://i.ibb.co/KVChR06/1639042753833.jpg" /> 
+img[src*="https://i.ibb.co/KVChR06/1639042753833.jpg"] {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    border: 4px solid var(--color-background-container);
+    background-color: var(--color-background-container);
 }
-.heading2 {
-    color: blue;
-    font-weight:700;
-    font-size: 30px;
-}
-</style>
-
-<h1 id="identifier" class="heading1">
-    Markdown h1 styles
-</h1>
-<h2 id="identifier" class="heading2">
-    Markdown h2 styles
-</h2>
 
 # Reviews and Feedback
 
