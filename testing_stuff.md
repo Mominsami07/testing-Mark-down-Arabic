@@ -2,8 +2,7 @@
 # Reviews and Feedback
 
 
- # أحمد الشربيني - Technical Tema Lead - الإمارات   <img width="90px" height="90px" src="https://i.ibb.co/KVChR06/1639042753833.jpg" /> 
-
+ # أحمد الشربيني - Technical Tema Lead - الإمارات  <img src="https://i.ibb.co/KVChR06/1639042753833.jpg" width="10%" height="10%" />
 
 
 > أحمد خبرة في مجال البرمجيات 7 سنين، و عايز يعمل career shift لـ مجال ال DevOps، لأنه شايف أنه الطلب عليه بيزيد جداً مؤخراً والفرص بتاعته حلوة. 
