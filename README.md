@@ -1,10 +1,11 @@
+.right img { float: right; }
 
 # Reviews and Feedback
 
  
  # أحمد الشربيني - Technical Tema Lead - الإمارات   <img width="90px" height="90px" src="https://i.ibb.co/KVChR06/1639042753833.jpg" /> 
 
-<img width="200px" src="https://i.ibb.co/KVChR06/1639042753833.jpg" height="200px" alt="Ahmed Sherbeeny" id="ember40" width: "100%" height: "100%" border-radius: "50%" />
+<img width="200px" src="https://i.ibb.co/KVChR06/1639042753833.jpg" height="200px" alt="Ahmed Sherbeeny" />
 
 
 > أحمد خبرة في مجال البرمجيات 7 سنين، و عايز يعمل career shift لـ مجال ال DevOps، لأنه شايف أنه الطلب عليه بيزيد جداً مؤخراً والفرص بتاعته حلوة. 
