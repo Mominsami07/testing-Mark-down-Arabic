@@ -12,7 +12,7 @@
 > * وحاجة تانية أحب أذكرها تعلمتها في الكورس هي الMentoring، والي هوا ازي انت تفكر في حياتك العملية وترتب أولوياتك، إزاي تأخد قرار صح. أخيراً أحب أقول أن الكورس مختلف وبيأهلك حرفياً أن أنت تكون DevOps Engineer فاهم.
 > 
 - [فيديو Ahmed's Review ](https://www.facebook.com/mradwandevops/videos/1025132721459225 "Ahmed's Review")
-<a href="https://www.facebook.com/ahmed.b.elsherbeeny">
+- تابعوا أحمد <a href="https://www.facebook.com/ahmed.b.elsherbeeny">
     <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />
   </a>&ensp;
    <a href="https://www.linkedin.com/in/ahmed-sherbeeny-a57831a3/">
