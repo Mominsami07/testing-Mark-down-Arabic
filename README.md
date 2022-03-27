@@ -1,17 +1,24 @@
-img {
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  padding: 5px;
-  width: 150px;
+<style>
+.green {
+    color: green;
+    font-weight:700;
+    font-size: 30px;
 }
+  .pv-top-card-profile-picture .pv-top-card-profile-picture__image {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    border: 4px solid var(--color-background-container);
+    background-color: var(--color-background-container);
+}
+</style>
 
 # Reviews and Feedback
 
  
  # أحمد الشربيني - Technical Tema Lead - الإمارات   <img width="90px" height="90px" src="https://i.ibb.co/KVChR06/1639042753833.jpg" /> 
 
-<img width="200px" src="https://i.ibb.co/KVChR06/1639042753833.jpg" height="200px" alt="Ahmed Sherbeeny" />
-
+<img width="200" title="Ahmed Sherbeeny" src="https://media-exp1.licdn.com/dms/image/D4D03AQGdnCwE-IqYVg/profile-displayphoto-shrink_200_200/0/1639042753833?e=1654128000&amp;v=beta&amp;t=sFuhGf067t-XunBiTyQA46buaduILTk2hxrsW3xE6BA" height="200" alt="Ahmed Sherbeeny" id="ember40" class="pv-top-card-profile-picture__image pv-top-card-profile-picture__image--show ember-view">
 
 > أحمد خبرة في مجال البرمجيات 7 سنين، و عايز يعمل career shift لـ مجال ال DevOps، لأنه شايف أنه الطلب عليه بيزيد جداً مؤخراً والفرص بتاعته حلوة. 
 > أحمد حاول يدرس بنفسه عن طريق المصادر المجانية والمدفوعة المتوفرة أونلاين سواء يوتيوب و يوديمي، لكن الرودماب كانت طويلة جداً، وال Tools الي متوفرة كثيرة جداً ومش عارف يبتدي ازاي ومنين، من مميزات الكورس كما يرى أحمد:
