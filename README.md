@@ -15,10 +15,10 @@
 
 [فيديو Ahmed's Review ](https://www.facebook.com/mradwandevops/videos/1025132721459225 "Ahmed's Review")
 
-* <a href="https://www.facebook.com/ahmed.b.elsherbeeny">
+<a href="https://www.facebook.com/ahmed.b.elsherbeeny">
     <img width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />
   </a>&ensp;
    <a href="https://www.linkedin.com/in/ahmed-sherbeeny-a57831a3/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-  </a>;
+  </a>
 ---
