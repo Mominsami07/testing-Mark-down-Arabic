@@ -2,7 +2,7 @@
 <span class="right">
 ![](https://i.ibb.co/KVChR06/1639042753833.jpg) 
 </span>
-   <img src="https://i.ibb.co/KVChR06/1639042753833.jpg" width="50%" height="50%" border-radius= "50%"  />
+   <img src="https://i.ibb.co/KVChR06/1639042753833.jpg" width="50%" height="50%" border-radius= "50px"  />
 # Reviews and Feedback
 
 
