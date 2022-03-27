@@ -1,5 +1,5 @@
 <img width="90px" height="90px" src="https://i.ibb.co/KVChR06/1639042753833.jpg" /> 
-img[src*="https://i.ibb.co/KVChR06/1639042753833.jpg"] {
+img[src="https://i.ibb.co/KVChR06/1639042753833.jpg"] {
     width: 100%;
     height: 100%;
     border-radius: 50%;
