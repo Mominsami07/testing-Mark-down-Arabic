@@ -1,4 +1,4 @@
-.right img { width: 100%;height: 100%; border-radius: 50%; border: 4px solid;}
+.right img { width: 50px;height: 100%; border-radius: 50%; border: 4px solid;}
 <span class="right">
 ![](https://i.ibb.co/KVChR06/1639042753833.jpg) 
 </span>
