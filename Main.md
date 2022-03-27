@@ -4,7 +4,7 @@
 
 - <a href="https://www.youtube.com/c/MohamedRadwanArabic?sub_confirmation=1" title="Subscribe to Mohamed's YouTube Channel" style="background-color:#FFFFFF;color:#000000;text-decoration:none">▶ Subscribe to our channel </a>
 
-- <a href="https://github.com/MohamedRadwan-DevOps/DevOps-step-by-step-arabic/blob/main/none-community/course-outline.md" title="محتوى الكورس" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📃 Course Outlines </a>
+- <a href="https://github.com/MohamedRadwan-DevOps/DevOps-step-by-step-arabic/blob/main/none-community/course-outline.md" title="Course Outlines" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📃 Course Outlines </a>
 
 - <a href="https://github.com/MohamedRadwan-DevOps/DevOps-step-by-step-arabic/blob/main/none-community/devops-course-faq.md" title="FAQ" style="background-color:#FFFFFF;color:#000000;text-decoration:none;">❓ FAQ</a>
  
